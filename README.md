@@ -1,24 +1,6 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Abhijit Joshi.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is my first App where I am learning Ruby on Rails. I created this while watching the youtube video from John Elders.
+https://www.youtube.com/watch?v=fmyvWz5TUWg
